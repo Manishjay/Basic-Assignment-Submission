@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    border: 12px;
+}
+
+img{
+    height: 300px;
+}
+
+#img2{
+    height: 260px;
+    padding: 10px;
+    margin-top: auto;
+}
+
+a:hover{
+    color: rgb(255, 0, 106);
+}
+
+#img1{
+
+    margin-top: auto;
+    margin-bottom: auto;
+}
